@@ -3,10 +3,11 @@ const answers = [
     "Avlo kolupagirucha",
     
     "Enaya maari nalla paiyan kedika maataan!",
+    "I am not wrong scientifically!",
     "Nalla yosichiko?",
     "kal nenjakkaari...!!",
     "Meendum meendum wrong button ah press panra",
-    "I am not going to ask again!",
+    
     "Ipdi panrathu konjam kuda nalla ila paathuko!",
     "NO sonna mudi kottum!",
     "En thanga petharu la YES solunga",
