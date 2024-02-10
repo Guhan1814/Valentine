@@ -1,19 +1,17 @@
 const answers = [
-    "Pullaiya neeee NO solra eruma maadu!",
-    "Avlo kolupagirucha",
-    
-    "Enaya maari nalla paiyan kedika maataan!",
-    "I am not wrong scientifically!",
-    "Nalla yosichiko?",
-    "kal nenjakkaari...!!",
-    "Meendum meendum wrong button ah press panra",
-    
-    "Ipdi panrathu konjam kuda nalla ila paathuko!",
-    "NO sonna mudi kottum!",
-    "En thanga petharu la YES solunga",
-    "Pacha button laam kanukke theriyatha unaku!",
-    "I am begging you to stop!",
-    "Aprm vanthu love panren",
+    "Pullaiya neeee NO solra eruma maadu!(14)",
+    "Avlo kolupagirucha(13)",
+    "Enaya maari nalla paiyan kedika maataan(12)!",
+    "I am not wrong scientifically!(11)",
+    "Nalla yosichiko?(10)",
+    "kal nenjakkaari...!!(9)",
+    "Meendum meendum wrong button ah press panra(8)",
+    "Ipdi panrathu konjam kuda nalla ila paathuko!(7)",
+    "NO sonna mudi kottum!(6)",
+    "En thanga petharu la YES solunga(5)",
+    "Pacha button laam kanukke theriyatha unaku!(4)",
+    "I am begging you to stop!(3)",
+    "Aprm vanthu love panren(2)",
     "Tataaa.."
 ]
 
