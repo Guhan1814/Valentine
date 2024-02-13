@@ -1,6 +1,6 @@
 const answers = [
     "Pullaiya neeee NO solra eruma maadu!(14)",
-    "Avlo kolupagirucha(13)",
+    "Avlo kolupagirucha No solra(13)",
     "Enaya maari nalla paiyan kedika maataan(12)!",
     "I am not wrong scientifically!(11)",
     "Nalla yosichiko?(10)",
